@@ -1,14 +1,13 @@
-h1{
-  position: absolute;
-  width: 341px;
-  height: 34px;
+body{
+background:
+box-sizing: border-box;
 
-  font-family: 'Junge';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 15px;
+position: absolute;
+width: 415px;
+height: 546px;
 
-  color: #000000;
+background: #F4C9DE;
+border: 1px solid #000000;
+
 
 }
