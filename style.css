@@ -1,13 +1,38 @@
 body{
-background:
-box-sizing: border-box;
+  background-color: pink
+}
+header{
+  background-color: #0F0F0E
+}
 
-position: absolute;
-width: 415px;
-height: 546px;
+.titulo{font-size: 100px; color: #C7C7C7; text-align: center;margin-top: -7%}
 
-background: #F4C9DE;
-border: 1px solid #000000;
+h1{
+  font-family: inherit; text-align: center; color:white; border: 10px solid #C9460E;
+}
 
+p{
+  font-family: monospace; font-size: 30px; color: white; text-align: center; border: 10px solid #C7B704;
+}
 
+ul {
+  top: 200px;
+font-size: 30px;
+}
+
+.logo{
+width: 15%;
+margin-left: 0%;
+}
+
+.contato{font-family: cursive; background-color: #A89203; color: #FFFFFF ; font-size: 30px; text-align: center;}
+
+iframe{
+  width: 50%;
+  margin-left: 25%;
+}
+
+img{
+  width: 100%;
+  margin-left: 0%;
 }
