@@ -8,11 +8,20 @@ header{
 .titulo{font-size: 100px; color: #C7C7C7; text-align: center;margin-top: -7%}
 
 h1{
-  font-family: inherit; text-align: center; color:white; border: 10px solid #C9460E;
+  font-family: inherit; text-align: center; color:white; ;
+}
+h2{
+font-family: inherit; text-align: left; color: black
+}
+h3{
+  font-family: inherit;text-align: left; color: black
+}
+p1{
+  font-family: inherit;text-align: left; color: black
 }
 
-p{
-  font-family: monospace; font-size: 30px; color: white; text-align: center; border: 10px solid #C7B704;
+h4{
+  font-family: inherit;text-align: left; color: black
 }
 
 ul {
@@ -21,7 +30,7 @@ font-size: 30px;
 }
 
 .logo{
-width: 15%;
+width: 18%;
 margin-left: 0%;
 }
 
