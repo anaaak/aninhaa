@@ -23,6 +23,9 @@ p1{
 h4{
   font-family: inherit;text-align: left; color: black
 }
+h5{
+  font-family: inherit;text-align: left; color: white
+}
 
 ul {
   top: 200px;
