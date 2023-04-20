@@ -5,7 +5,7 @@ header{
   background-color: #0F0F0E
 }
 
-.titulo{font-size: 100px; color: #C7C7C7; text-align: center;margin-top: -7%}
+.titulo{font-size: 100px; color: #C7C7C7; text-align: center;margin-top: -22%}
 
 h1{
   font-family: inherit; text-align: center; color:white; ;
@@ -34,7 +34,7 @@ font-size: 30px;
 
 .logo{
 width: 18%;
-margin-left: 0%;
+margin-left: 78%;
 }
 
 .contato{font-family: cursive; background-color: #A89203; color: #FFFFFF ; font-size: 30px; text-align: center;}
@@ -44,7 +44,10 @@ iframe{
   margin-left: 25%;
 }
 
-img{
-  width: 100%;
-  margin-left: 0%;
+.minhafoto{
+
+  width: 62%;
+  margin-left: 10%;
+  border-radius: 20%
+
 }
